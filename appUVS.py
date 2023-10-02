@@ -53,7 +53,7 @@ if (choose == "About"):
                     unsafe_allow_html=True)
     with col2:               # To display brand log
         st.image(logo, width=150)
-    st.write("Abdoulaye BA etudiant en MASTER 2 BIG DATA UNIVERSITE DU SENEGAL, Aussi ingenieur des traveaux informatiques et Administrateur Reseaux et sytemes d'information et gestionnaire de parc informati à l'hopaital Aristide le Dantec que le lien du repos sur github est disponibles sur ce lien: https://github.com/lbfacto")
+    st.write("Abdoulaye BA etudiant en MASTER 2 BIG DATA UNIVERSITE DU SENEGAL, Aussi ingenieur des traveaux informatiques et Administrateur Reseaux et sytemes d'information et gestionnaire de parc informati à l'hopaital Aristide le Dantec. Le lien du repos sur github est disponibles sur ce lien: https://github.com/lbfacto")
     st.write("Ce projet est realiser avec Dr Oumy Niass de l'universite virtuelle du senegal")
     st.write("Dans le module de cas industrielle sur des données reels de patient dans une base de données avec les ")
     st.write("prelevements de differenetes sujet et diverses criteres sont eablies selon des cas de prevelemenet differentes sur des barometre divers")
